@@ -1,0 +1,15 @@
+{
+    "title": "Test Custom 5",
+    "baseURL": "https:\/\/custom.test.wdg",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "test.wdg"
+    }
+}
